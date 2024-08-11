@@ -61,7 +61,7 @@
 // console.log(result2);
 
 // let name = `vasya solovei`;
-console.log(name);
+// console.log(name);
 
 // let x =1020;   //...num..//
 // let x = '1020'; //...stings..//
